@@ -37,7 +37,7 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 
 4. Pull request olarak göndermenin amacı; proje üzerinde değişiklik yaptığımı branch'den sorumlu kişiye iletmek ve kodu eklmek istediğimi belirtmektir.
 
-5. git checkout
+5. git git switch
 
 6. git fetch: Yerel depomu uzaktaki deponun içeriğine güncelle anlamına gelir. 
    git merge :Başka bir branch'da olan değişiklikleri, bulunduğumuz branch ile birleştirmek istediğimizde kullanılır. 
